@@ -1,0 +1,28 @@
+.series {
+	width:7%;
+}
+
+.number {
+	width:16%;
+text-align:center;
+}
+
+.date {
+	width:17%;
+}
+
+.sum {
+	width:10%;
+}
+
+.status {
+	width:7%;
+}
+
+td {
+	text-align:center;
+}
+
+th {
+	text-align:center;
+}
